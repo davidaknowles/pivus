@@ -1,0 +1,1 @@
+qsub -cwd -pe shm 48 -l h_vmem=1G ./eagle.R
